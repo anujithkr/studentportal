@@ -97,7 +97,7 @@ function Auth({ registerPage }) {
 
       <div className="container-fluid m-5">
         <Link to={'/'} style={{ textDecoration: 'none' }}>
-          <h5> <i class="fa-solid fa-arrow-left me-3"></i>BACK TO HOME</h5>
+          <h5> <i class="fa-solid fa-arrow-left me-3 mt-5"></i>BACK TO HOME</h5>
         </Link>
       </div>
 
